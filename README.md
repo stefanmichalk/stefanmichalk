@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### I´m Stefan, 32 yrs old from good old Bavaria.
+
+#### I´m one of the founders of www.darfichrein.de - a platform for digtigal contact registration for public places like restaurants, hotels, etc.
+
 <!--
 **stefanmichalk/stefanmichalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
